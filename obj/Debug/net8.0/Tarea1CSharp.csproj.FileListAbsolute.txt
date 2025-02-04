@@ -1,0 +1,14 @@
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\bin\Debug\net8.0\Tarea1CSharp.exe
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\bin\Debug\net8.0\Tarea1CSharp.deps.json
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\bin\Debug\net8.0\Tarea1CSharp.runtimeconfig.json
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\bin\Debug\net8.0\Tarea1CSharp.dll
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\bin\Debug\net8.0\Tarea1CSharp.pdb
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\Tarea1CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\Tarea1CSharp.AssemblyInfoInputs.cache
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\Tarea1CSharp.AssemblyInfo.cs
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\Tarea1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\Tarea1CSharp.dll
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\refint\Tarea1CSharp.dll
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\Tarea1CSharp.pdb
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\Tarea1CSharp.genruntimeconfig.cache
+C:\Users\jhein\Documents\programing homework\repositorios\tarea1CSharp\Tarea1CSharp\obj\Debug\net8.0\ref\Tarea1CSharp.dll
