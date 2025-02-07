@@ -149,7 +149,7 @@ namespace PooCSharp
     {
         static void Main()
         {
-            MiembroDeLaComunidad miembro = new MiembroDeLaComunidad(1, "Harry", "Potter");
+            MiembroDeLaComunidad miembro = new MiembroDeLaComunidad(20240017, "Harry", "Potter");
             miembro.Imprimir();
             Console.WriteLine();
 
@@ -161,19 +161,19 @@ namespace PooCSharp
             alumno.Imprimir();
             Console.WriteLine();
 
-            ExAlumnos exAlumnos = new ExAlumnos(4, "Remus", "Lupin", "17/05/1978");
+            ExAlumnos exAlumnos = new ExAlumnos(20240356, "Remus", "Lupin", "17/05/1978");
             exAlumnos.Imprimir();
             Console.WriteLine();
 
-            Docentes docente = new Docentes(5, "Albert", "Dumblendore", "Dirección", "Director", "Magia");
+            Docentes docente = new Docentes(20238745, "Albert", "Dumblendore", "Dirección", "Director", "Magia");
             docente.Imprimir();
             Console.WriteLine();
 
-            Administrativo administrativo = new Administrativo(6, "Sirius", "Black", "Salud", "Asistente", "Activo");
+            Administrativo administrativo = new Administrativo(20235623, "Sirius", "Black", "Salud", "Asistente", "Activo");
             administrativo.Imprimir();
             Console.WriteLine();
 
-            Maestro maestro = new Maestro(7, "Severus", "Snape", "Pociones", "Profesor", "6to Grado", "Pociones Avanzadas");
+            Maestro maestro = new Maestro(20247845, "Severus", "Snape", "Pociones", "Profesor", "6to Grado", "Pociones Avanzadas");
             maestro.Imprimir();
             Console.WriteLine();
 
