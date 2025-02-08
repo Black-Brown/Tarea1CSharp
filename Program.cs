@@ -165,7 +165,7 @@ namespace PooCSharp
             exAlumnos.Imprimir();
             Console.WriteLine();
 
-            Docentes docente = new Docentes(20238745, "Albert", "Dumblendore", "Dirección", "Director", "Magia");
+            Docentes docente = new Docentes(20238745, "Alber", "Dumblendore", "Dirección", "Director", "Magia");
             docente.Imprimir();
             Console.WriteLine();
 
